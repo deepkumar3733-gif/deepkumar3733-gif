@@ -1,4 +1,4 @@
-<halign="center">
+
 
 ### 👋 Hello World, I'm Deepak! 
 
